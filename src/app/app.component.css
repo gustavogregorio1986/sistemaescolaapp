@@ -1,0 +1,14 @@
+.sidenav-container {
+    height: 100vh;
+  }
+  
+  .content {
+    padding: 16px;
+  }
+  
+  /* Ajuste para telas menores */
+  @media (max-width: 768px) {
+    .sidenav-container {
+      height: 100%;
+    }
+  }  
